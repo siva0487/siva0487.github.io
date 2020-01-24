@@ -1,0 +1,38 @@
+[
+    {
+        "brand_name": "Amul",
+        "product_name": "1234",
+        "quantity": "10",
+        "Price": "35",
+        "MRP": "40",
+        "Image_Url": "../assets/Images/images.jpeg",
+        "Offer_Text": "Amul Pure Ghee it's For Health"
+    },
+    {
+        "brand_name": "Suger",
+        "product_name": "7667",
+        "quantity": "10",
+        "Price": "35",
+        "MRP": "40",
+        "Image_Url": "../assets/Images/sun.jpeg",
+        "Offer_Text": "Amul Pure Ghee it's For Health"
+    },
+    {
+        "brand_name": "Sunflower_oil",
+        "product_name": "368",
+        "quantity": "10",
+        "Price": "35",
+        "MRP": "40",
+        "Image_Url": "../assets/Images/sun.jpeg",
+        "Offer_Text": "Amul Pure Ghee it's For Health"
+    },
+    {
+        "brand_name": "dabur_honey",
+        "product_name": "1968",
+        "quantity": "10",
+        "Price": "35",
+        "MRP": "40",
+        "Image_Url": "../assets/Images/sun.jpeg",
+        "Offer_Text": "Amul Pure Ghee it's For Health"
+    }
+]

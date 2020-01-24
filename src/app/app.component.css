@@ -1,0 +1,41 @@
+
+.Product-Details-Block ul{
+    
+    list-style: none;
+    border-bottom: 1px solid black;
+}
+.Product-Details-Block h3, p{
+    margin: 0 auto !important;
+    padding: 0 !important;
+}
+  
+  .Product-Details-Block {
+      width: 65%;
+    display: block;
+    margin: 0 auto;
+  }
+.Product-Image-Block img{
+    max-width: 94px;
+    margin: 0 auto;
+}
+.addQuantityUsage img{
+    max-width: 30px;
+    margin: 0 auto;
+    cursor: pointer;
+}
+.removeQuantityUsage img{
+    max-width: 33px;
+    margin: 0 auto;
+    cursor: pointer;
+}
+
+.imageUse{
+    position: absolute;
+    top: 0;
+    /* left: 16rem; */
+    max-height: 100%;
+    width: 9rem;
+}
+.button-row{
+    justify-content:space-evenly;
+}
